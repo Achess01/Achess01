@@ -1,4 +1,6 @@
 ### Hi there 👋
+I love to write code while listening to (almost) any music genre. Since Luis Miguel to BTS, Coldplay or Corridos Tumbados. All depends on my mood.
+You can check some of my projects and maybe we can collaborate.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
