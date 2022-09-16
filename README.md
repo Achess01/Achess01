@@ -3,8 +3,7 @@
 - Pizza con piña lover
 - Chess player
 
-I love to write code while listening to music. Since Luis Miguel to BTS, Coldplay or Corridos Tumbados. All depends on my mood.
-Check some of my projects and maybe we can collaborate.
+I'm a programmer passionate for software development. I've develop projects using technologies such as: HTML, CSS, JavaScript, ReactJS, Python, Django and more. In my free time i'm a chess club player. Check some of my projects and maybe we can collaborate.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achess01&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
