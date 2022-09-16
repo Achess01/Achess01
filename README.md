@@ -3,7 +3,7 @@
 - Pizza con piña lover
 - Chess player
 
-I'm a programmer passionate for software development. I've develop projects using technologies such as: HTML, CSS, JavaScript, ReactJS, Python, Django and more. In my free time i'm a chess club player. Check some of my projects and maybe we can collaborate.
+I am a programmer passionate about software development. I have developed projects using technologies such as: HTML, CSS, JavaScript, ReactJS, Python, Django and more. In my spare time I am a player in a chess club. Check some of my projects and maybe we can collaborate.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Achess01&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
